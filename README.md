@@ -1,4 +1,4 @@
-# Assignment 2 Matrix-Vector Multiplication
+# Matrix-Vector Multiplication
 
 ## Starting your own Repo ##
 
@@ -40,7 +40,7 @@ sbatch jobScript.slurm
 You may also do this using http://ondemand.osc.edu
 
 ## Summary ##
-For this assignment our task was to design and parallelize a matrix-vector multiplication algorithm. We also were permitted to use the boost library. I submitted my code to OSC and created a spreadsheet for analysis of my code's performance.
+For this assignment my task was to design and parallelize a matrix-vector multiplication algorithm. We also were permitted to use the boost library. I submitted my code to OSC and created a spreadsheet for analysis of my code's performance.
 
 ## Algorithm ##
 For my solution, the dimensions of the matrix are fed in from the cmd-line. The parallel function is called and first, my master process generates the matrix and the vector to be multiplied. 
