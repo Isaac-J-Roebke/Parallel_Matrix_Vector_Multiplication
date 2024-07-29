@@ -4,7 +4,7 @@
 
 Follow these steps:
 
-1. Create your appropriately named repo on Gitlab.
+1. Create your appropriately named repo.
 
 2. On your local computer: 
     - if using SSH, run  `git clone -b main --single-branch git@github.com:Isaac-J-Roebke/Parallel_Matrix_Vector_Multiplication.git`. 
