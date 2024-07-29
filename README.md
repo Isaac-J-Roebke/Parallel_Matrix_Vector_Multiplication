@@ -7,12 +7,12 @@ Follow these steps:
 1. Create your appropriately named repo on Gitlab.
 
 2. On your local computer: 
-    - if using SSH, run  `git clone -b main --single-branch git@gitlab.com:ijroebke/cs4170_fa2022_a02_roebke.git`. 
+    - if using SSH, run  `git clone -b main --single-branch git@github.com:Isaac-J-Roebke/Parallel_Matrix_Vector_Multiplication.git`. 
 
 
-    - If using HTTPS, run `git clone -b main --single-branch https://gitlab.com/ijroebke/cs4170_fa2022_a02_roebke.git`
+    - If using HTTPS, run `git clone -b main --single-branch https://github.com/Isaac-J-Roebke/Parallel_Matrix_Vector_Multiplication.git`
 
-3. `cd cs4170_fa2022_a02_roebke`
+3. `cd Parallel_Matrix_Vector_Multiplication`
 
 4. `git remote remove origin`. This removes the current remote named `origin`.
 
